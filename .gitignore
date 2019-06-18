@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+# *.ipynb
+
+# OS generated files #
+######################
+.ipynb_checkpoints/
+.DS_Store
+ehthumbs.db
+Icon
+Thumbs.db
+.tmtags
+.idea
+tags
+vendor.tags
+tmtagsHistory
+*.sublime-project
+*.sublime-workspace
+*.zip
+.bundle
+
+# Folders
+#####################
+data
+*.mzML
+*.pdf
+test/.pytest_cache/v/cache/stepwise
+.ipynb
+main_debug.py
